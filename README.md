@@ -15,7 +15,7 @@
   <p></p>
 <p>I also ran the three testers i found online, the <em><b>Unit Tester</b></em> (made by: <i>alelievr</i>), the <em>LibftTester</em>, a.k.a <em><b>Tripouille tester</b></em> (made by : <i>jgambard</i>) and the <em><b>Libft War Machine</b></em> (made by : <i>y3ll0w42</i>)[links below], and this is the ouput:</p>
 <div align="center"><br>
-  <img src="https://user-images.githubusercontent.com/76601369/110706242-77158d00-81ef-11eb-8085-5da6f0988553.jpg" alt="https://user-images.githubusercontent.com/76601369/110706242-77158d00-81ef-11eb-8085-5da6f0988553.jpg" width="650" height="300">
+  <img src="https://user-images.githubusercontent.com/99777188/155602527-350c5271-1906-40b0-8e1e-ff8c2666315d.png" alt="https://user-images.githubusercontent.com/99777188/155602527-350c5271-1906-40b0-8e1e-ff8c2666315d.png" width="650" height="600">
 </div>
 </body>
 </html>
