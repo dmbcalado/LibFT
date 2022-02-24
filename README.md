@@ -5,39 +5,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<style>
-	h1 
-	{
-  		background-color: #000000; /* Grey background */
-  		color: #ffffff;
-  		text-align: center; /* Centered text */
-		font-family:Monaco;
-  		font-size: 35px; /* Big font size */
-  		font-weight: bold;
-	}
-	p 
-	{
-		
-	    
-	}
-	ul 
-	{
-  		display: block;
-  		list-style-type: square;
-  		margin-top: 1em;
- 		margin-bottom: 1 em;
-		margin-left: 0;
-		margin-right: 0;
-		padding-left: 40px;
-	}
-	body 
-	{
-		
-		color: #ffffff;
-	}
-</style>
 <body style="background-color:black;">
-	<h1 style = "font-family:Monaco;text-align: center;">LibFT</h1>
+	<h1 style = "text-align: center;">LibFT</h1>
   <p><b>After passing through the Piscine this was my first project.</b></p>
   <p>In this library you will find the following functions, working as intended:</p>
   <ul>
