@@ -9,36 +9,23 @@
 	<h1 style = "text-align: center;">LibFT</h1>
   <p><b>After passing through the Piscine this was my first project.</b></p>
   <p>In this library you will find the following functions, working as intended:</p>
-  <ul>
-	<li>isalpha<li>
-	<li>isdigit<li>
-•isalnum
-<li>isascii
-<li>isprint
-<li>strlen
-<li>memset
-<li>bzero
-<li>memcpy
-<li>memmove
-<li>strlcpy
-<li>strlcat
-<li>toupper
-<li>tolower
-<li>strchr
-<li>strrchr
-<li>strncmp
-<li>memchr
-<li>memcmp
-<li>strnstr
-<li>calloc
-<li>strdup
-<li>atoi
-<li>itoa
-<li>substr
-<li>strjoin
-<li>strtrim
-<li>split
-<li>strtrim
+✓isalpha		✓strlen			✓bzero
+✓isdigit		✓strlcpy		✓calloc
+✓isalnum		✓strchr			✓memset
+✓isascii		✓strrchr		✓memmove
+✓isprint		✓strlcat		✓memchr
+✓toupper		✓strncmp		✓memcmp
+✓tolower		✓strnstr		✓memcpy
+✓atoi			✓strdup
+✓itoa			✓substr			
+			✓strjoin
+			✓strtrim
+			✓strtrim
+			✓split
+
+✓strmapi
+✓strmapi
+✓strmapi
 And the bonus ones:	  
 	 
 	  
