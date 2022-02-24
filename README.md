@@ -16,7 +16,7 @@
   <p>And the bonus ones:</p>	  
   <p><i>✓lstnew ✓lstnew ✓lstsize ✓lstlast ✓lstadd_back ✓lstdelone ✓lstclear ✓lstiter ✓lstmap </i></p>	
   <p></p>
-  <p>I also ran the three testers i found online, the unit tester (made by: <i>alelievr</i>), the <em>libftTester</em>, a.k.a <em>Tripouille tester</em> (made by : <i>jgambard</i>) and the <em>Libft War Machine</em> (made by : <i>y3ll0w42</i>)</p>
+  <p>I also ran the three testers i found online, the <em><b>unit tester</b></em> (made by: <i>alelievr</i>), the <em>libftTester</em>, a.k.a <em><b>Tripouille tester</b></em> (made by : <i>jgambard</i>) and the <em><b>Libft War Machine</b></em> (made by : <i>y3ll0w42</i>)</p>
   <p>Lorem ipsum dolor dummy text sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </body>
 </html>
