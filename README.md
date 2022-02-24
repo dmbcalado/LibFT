@@ -9,7 +9,7 @@
 	<h1 style = "text-align: center;">LibFT</h1>
   <p><b>After passing through the Piscine this was my first project.</b></p>
   <p>In this library you will find the following functions, working as intended:</p>
-✓isalpha		✓strlen			✓bzero
+✓isalpha                ✓strlen                 ✓bzero\n
 ✓isdigit		✓strlcpy		✓calloc
 ✓isalnum		✓strchr			✓memset
 ✓isascii		✓strrchr		✓memmove
