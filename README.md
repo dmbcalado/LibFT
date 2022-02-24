@@ -17,7 +17,7 @@
 	}
 	p 
 	{
-		font-family:Monaco;
+		
 	    text-align: justify;
 	}
 	ul 
@@ -37,7 +37,7 @@
 	}
 </style>
 <body style="background-color:black;">
-	<h1>LibFT</h1>
+	<h1 style = "font-family:Monaco;">LibFT</h1>
   <p><b>After passing through the Piscine this was my first project.</b></p>
   <p>In this library you will find the following functions, working as intended:</p>
   <ul>
