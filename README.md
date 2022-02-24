@@ -36,7 +36,7 @@
 		color: #ffffff;
 	}
 </style>
-<body style = background-color: #000000;>
+<body style="background-color:black;">
 	<h1>LibFT</h1>
   <p><b>After passing through the Piscine this was my first project.</b></p>
   <p>In this library you will find the following functions, working as intended:</p>
