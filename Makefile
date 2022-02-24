@@ -4,6 +4,7 @@ CC = gcc
 FLAGS = -Wall -Werror -Wextra -Fsanitize=address
 RM = rm -f
 LIB1 = ar -rcs
+LIB2 = ranlib
 
 INCLUDE = libft.h
 
@@ -62,12 +63,14 @@ all : $(NAME)
 
 $(NAME): $(OBJECTS) $(INCLUDE)
 					$(LIB1) $(NAME) $(OBJECTS)
+					$(LIB2) $(NAME)
 
 bonus : $(NAME) $(BONUS_OBJECTS)
 					$(LIB1) $(NAME) $(BONUS_OBJECTS)
+					$(LIB2) $(NAME)
 
-#.c.o:
-#		$(CC) $(FLAGS) -I $(INCLUDE) -c $< -o $(<:.c=.o)
+.c.o:
+		$(CC) $(FLAGS) -I $(INCLUDE) -c $< -o $(<:.c=.o)
 
 clean:
 		$(RM) $(OBJECTS) $(BONUS_OBJECTS)
