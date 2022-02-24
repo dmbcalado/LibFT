@@ -7,16 +7,15 @@
 	<title>LibFT</title>
 </head>
 <style>
-	#header 
+	h1 
 	{
   		background-color: #000000; /* Grey background */
   		padding: 50px 10px; /* Some padding */
   		color: #ffffff;
   		text-align: center; /* Centered text */
 		font-family:Monaco;
-  		font-size: 70px; /* Big font size */
+  		font-size: 35px; /* Big font size */
   		font-weight: bold;
-  		position: fixed; /* Fixed position - sit on top of the page */
   		top: 0;
   		width: 100%; /* Full width */
   		transition: 0.2s; /* Add a transition effect (when scrolling - and font size is decreased) */
@@ -43,9 +42,7 @@
 	}
 </style>
 <body>
-	<div id="header">LibFT</div>
-
-<div style="margin-top:200px;padding:15px 15px 2500px;font-size:15px">
+	<h1>LibFT</h1>
   <p><b>After passing through the Piscine this was my first project.</b></p>
   <p>In this library you will find the following functions, working as intended:</p>
   <ul>
@@ -54,20 +51,5 @@
   
   <p>Scroll to the top to remove the effect.</p>
   <p>Lorem ipsum dolor dummy text sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-
-<script>
-// When the user scrolls down 50px from the top of the document, resize the header's font size
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 30 || document.documentElement.scrollTop > 30) {
-    document.getElementById("header").style.fontSize = "30px";
-  } else {
-    document.getElementById("header").style.fontSize = "70px";
-  }
-}
-</script>
-
 </body>
 </html>
