@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-	<h1 style = "text-align: center;"><em>LibFT</em></h1>
+	<h1><b><em>LIBFT</em></b></h1>
   <p><b>After passing through the Piscine this was my first project.</b></p>
   <p>In this library you will find the following functions, working as intended: </p>
   <p><i>✓bzero ✓calloc ✓memset ✓memmove ✓memchr ✓memcmp ✓memcpy </i></p>
