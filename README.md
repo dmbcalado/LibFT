@@ -15,8 +15,8 @@
   <p><i>✓strmapi ✓striteri ✓putchar_fd ✓putchar_fd ✓putstr_fd ✓putendl_fd ✓putnbr_fd </i></p>				
   <p>And the bonus ones:</p>	  
   <p><i>✓lstnew ✓lstnew ✓lstsize ✓lstlast ✓lstadd_back ✓lstdelone ✓lstclear ✓lstiter ✓lstmap </i></p>	
-  
-  <p>Scroll to the top to remove the effect.</p>
+  <p></p>
+  <p>I also ran the three testers i found online, the unit tester (made by: <em>alelievr<em>), the libftTester, a.k.a Tripouille tester (made by : <em>jgambard<em>) and the Libft War Machine (made by : <em>y3ll0w42<em>)</p>
   <p>Lorem ipsum dolor dummy text sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </body>
 </html>
