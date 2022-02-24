@@ -17,6 +17,6 @@
 <div align="center"><br>
   <img src="https://user-images.githubusercontent.com/99777188/155604500-d36bd410-714e-4d83-a632-a2c7a1aee0b4.jpg" alt="https://user-images.githubusercontent.com/99777188/155604500-d36bd410-714e-4d83-a632-a2c7a1aee0b4.jpg" width="1200" height="775">
 </div>
-<p>We can see that its missing ft_memmcpy function, this is d also ran the three testers i found online, the <em><b>Unit Tester</b></em> (made by: <i>alelievr</i>), the <em>LibftTester</em>, a.k.a <em><b>Tripouille tester</b></em> (made by : <i>jgambard</i>) and the <em><b>Libft War Machine</b></em> (made by : <i>y3ll0w42</i>)[links below], and this is the ouput:</p>
+<p>We can see that its missing ft_memmcpy function in the Unit tester, the reason is that <b>back in the days<\b> that this tester was made, <b>memccpy was a mandatory function</b>, and nowadays <b>its not even asked for.</b> I also found to be very usefull to run the 3 testers, since i passed in the unit one and after that i got KOs on Tripouille, and after i got everything right on Tripouille i still got one KO on War Machine. This is not due to one being better then the other, since one collegue of mine did a different order and got the same thing, so i can conclude that what is happening is that they <b>complement</b> each other very well, and they test different aspect limits of the code on each test.</p>
 </body>
 </html>
