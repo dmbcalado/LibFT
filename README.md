@@ -15,7 +15,8 @@
   <p></p>
 <p>I also ran the three testers i found online, the <em><b>Unit Tester</b></em> (made by: <i>alelievr</i>), the <em>LibftTester</em>, a.k.a <em><b>Tripouille tester</b></em> (made by : <i>jgambard</i>) and the <em><b>Libft War Machine</b></em> (made by : <i>y3ll0w42</i>)[links below], and this is the ouput:</p>
 <div align="center"><br>
-  <img src="https://user-images.githubusercontent.com/99777188/155604500-d36bd410-714e-4d83-a632-a2c7a1aee0b4.jpg" alt="https://user-images.githubusercontent.com/99777188/155604500-d36bd410-714e-4d83-a632-a2c7a1aee0b4.jpg" width="1200" height="750">
+  <img src="https://user-images.githubusercontent.com/99777188/155604500-d36bd410-714e-4d83-a632-a2c7a1aee0b4.jpg" alt="https://user-images.githubusercontent.com/99777188/155604500-d36bd410-714e-4d83-a632-a2c7a1aee0b4.jpg" width="1200" height="775">
 </div>
+<p>We can see that its missing ft_memmcpy function, this is d also ran the three testers i found online, the <em><b>Unit Tester</b></em> (made by: <i>alelievr</i>), the <em>LibftTester</em>, a.k.a <em><b>Tripouille tester</b></em> (made by : <i>jgambard</i>) and the <em><b>Libft War Machine</b></em> (made by : <i>y3ll0w42</i>)[links below], and this is the ouput:</p>
 </body>
 </html>
