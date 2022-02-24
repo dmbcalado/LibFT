@@ -1,8 +1,9 @@
+<h1><b><em>LIBFT</em></b></h1>
 <div align="center"><br>
   <img src="https://user-images.githubusercontent.com/76601369/110706242-77158d00-81ef-11eb-8085-5da6f0988553.jpg" alt="https://user-images.githubusercontent.com/76601369/110706242-77158d00-81ef-11eb-8085-5da6f0988553.jpg" width="650" height="300">
 </div>
 <body>
-	<h1><b><em>LIBFT</em></b></h1>
+	
   <p><b>After passing through the Piscine this was my first project.</b></p>
   <p>In this library you will find the following functions, working as intended: </p>
   <p><i>✓bzero ✓calloc ✓memset ✓memmove ✓memchr ✓memcmp ✓memcpy </i></p>
