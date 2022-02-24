@@ -10,7 +10,27 @@
   <p><b>After passing through the Piscine this was my first project.</b></p>
   <p>In this library you will find the following functions, working as intended:</p>
   <ul>
-	<li>sdesds</li>
+	<li>isalpha<li>
+	<li>isdigit<li>
+<li>isalnum<li>
+<li>isascii<li>
+<li>isprint<li>
+<li>strlen<li>
+<li>memset<li>
+<li>bzero<li>
+<li>memcpy<li>
+<li>memmove<li>
+<li>strlcpy<li>
+<li>strlcat<li>
+<li>toupper<li>
+<li>tolower<li>
+<li>strchr<li>
+<li>strrchr<li>
+<li>strncmp<li>
+<li>memchr<li>
+<li>memcmp<li>
+<li>strnstr<li>
+<li>atoi</li>
   </ul></div>
   
   <p>Scroll to the top to remove the effect.</p>
