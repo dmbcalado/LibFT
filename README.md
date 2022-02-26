@@ -18,7 +18,6 @@
   <img src="https://user-images.githubusercontent.com/99777188/155604500-d36bd410-714e-4d83-a632-a2c7a1aee0b4.jpg" alt="https://user-images.githubusercontent.com/99777188/155604500-d36bd410-714e-4d83-a632-a2c7a1aee0b4.jpg" width="1200" height="775">
 </div>
 We can see that its missing ft_memmcpy function in the Unit tester, the reason is that <b>back in the days</b> that this tester was made, <u>memccpy was a mandatory function</u>, and nowadays <b>its not even asked for.</b> I also found to be very usefull to run the 3 testers, since i passed in the unit one and after that i got KOs on Tripouille, and after i got everything right on Tripouille i still got one KO on War Machine. This is not due to one being better then the other, since one collegue of mine did a different order and got the same thing, so i can conclude that what is happening is that they <u><b>complement</b> each other very well</u>, and they test different aspect limits of the code on each test.</p>
-<p><b><u>FINAL GRADE:</u></b></p>
 <div align="center"><br>
   <img src="https://user-images.githubusercontent.com/99777188/155854781-cca1bf7a-4372-4a45-b95d-61c401ce6f63.png" alt="https://user-images.githubusercontent.com/99777188/155854781-cca1bf7a-4372-4a45-b95d-61c401ce6f63.png" width="1100" height="225">
 </div>
